@@ -1,4 +1,6 @@
-*.xlsx
 *.csv
+*.db
+*.py[cod]
+*.xlsx
+.web
 __pycache__
-*.pyc
